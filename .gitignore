@@ -1,0 +1,5 @@
+# Ignore all files in the raw-files directory
+raw-files/*
+
+# Ignore testing.ipynb
+testing.ipynb
